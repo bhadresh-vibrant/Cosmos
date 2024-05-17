@@ -672,7 +672,7 @@ struct CosmosLocalizedRating {
     "hu": "Értékelés",
     "id": "Peringkat",
     "it": "Voto",
-    "ko": "등급",
+    "ko": "별점",
     "lt": "Reitingas",
     "lv": "Vērtējums",
     "nl": "Rating",

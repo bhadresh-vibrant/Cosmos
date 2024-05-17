@@ -37,29 +37,12 @@
 		2BC696811BAF996F00576887 /* PerformanceTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC696801BAF996F00576887 /* PerformanceTableViewController.swift */; };
 		2BC696841BAF9A4700576887 /* PerformanceTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC696831BAF9A4700576887 /* PerformanceTableViewCell.swift */; };
 		39DB06212B6B608600AE776F /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 39BFD9162B39785900C58702 /* PrivacyInfo.xcprivacy */; };
-		39DB06222B6B608600AE776F /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 39BFD9162B39785900C58702 /* PrivacyInfo.xcprivacy */; };
 		7E089C6C1B9CF6AE00F11623 /* CosmosAccessibilityTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E089C6B1B9CF6AE00F11623 /* CosmosAccessibilityTests.swift */; };
 		7E089C6E1B9CF7AC00F11623 /* CosmosRatingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E089C6D1B9CF7AC00F11623 /* CosmosRatingTests.swift */; };
 		7E089C701B9CF8FC00F11623 /* CosmosRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E089C6F1B9CF8FC00F11623 /* CosmosRating.swift */; };
 		7E0C396A1BF0072C006AB7AE /* CosmosAccessibilityCallbacksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E0C39691BF0072C006AB7AE /* CosmosAccessibilityCallbacksTests.swift */; };
-		7E1A88471E3412CB0053A0FA /* RightToLeft.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EE7F1E01E33254800995862 /* RightToLeft.swift */; };
 		7E236536201FEA5F00FD853B /* CosmosSettingsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E236535201FEA5F00FD853B /* CosmosSettingsTests.swift */; };
 		7E4295551B38C70900C66E9F /* launch_screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E4295541B38C70900C66E9F /* launch_screen.png */; };
-		7E646DB11C04438B00048339 /* Cosmos-tvOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 7E646DB01C04438B00048339 /* Cosmos-tvOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		7E646DB61C04440B00048339 /* CosmosAccessibility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EE834C01B9D0270007BFDD2 /* CosmosAccessibility.swift */; };
-		7E646DB71C04440B00048339 /* CosmosDefaultSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B622ED01B37BB700090D81B /* CosmosDefaultSettings.swift */; };
-		7E646DB81C04440B00048339 /* CosmosLayers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B622EC91B37BB700090D81B /* CosmosLayers.swift */; };
-		7E646DB91C04440B00048339 /* CosmosLayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B622ECE1B37BB700090D81B /* CosmosLayerHelper.swift */; };
-		7E646DBA1C04440B00048339 /* CosmosLocalizedRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC473561B9D3F9400BDF89F /* CosmosLocalizedRating.swift */; };
-		7E646DBB1C04440B00048339 /* CosmosRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E089C6F1B9CF8FC00F11623 /* CosmosRating.swift */; };
-		7E646DBC1C04440B00048339 /* CosmosSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B622ECF1B37BB700090D81B /* CosmosSettings.swift */; };
-		7E646DBD1C04440B00048339 /* CosmosSize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B622ED11B37BB700090D81B /* CosmosSize.swift */; };
-		7E646DBE1C04440B00048339 /* CosmosText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B622ECD1B37BB700090D81B /* CosmosText.swift */; };
-		7E646DBF1C04440B00048339 /* CosmosTouch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B622ED21B37BB700090D81B /* CosmosTouch.swift */; };
-		7E646DC01C04440B00048339 /* CosmosView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B622ECA1B37BB700090D81B /* CosmosView.swift */; };
-		7E646DC11C04440B00048339 /* StarFillMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B622ECB1B37BB700090D81B /* StarFillMode.swift */; };
-		7E646DC21C04440B00048339 /* StarLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B622ECC1B37BB700090D81B /* StarLayer.swift */; };
-		7E646DC41C04441400048339 /* CosmosTouchTarget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B622EDE1B37BB850090D81B /* CosmosTouchTarget.swift */; };
 		7EE20BE61F18AEEF00D1ECD3 /* CosmosTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EE20BE51F18AEEF00D1ECD3 /* CosmosTest.swift */; };
 		7EE20BED1F18AFD600D1ECD3 /* 35px.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7EE20BEA1F18AFD600D1ECD3 /* 35px.jpg */; };
 		7EE20BEE1F18AFD600D1ECD3 /* 67px.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EE20BEB1F18AFD600D1ECD3 /* 67px.png */; };
@@ -143,7 +126,6 @@
 		7E0C39691BF0072C006AB7AE /* CosmosAccessibilityCallbacksTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CosmosAccessibilityCallbacksTests.swift; sourceTree = "<group>"; };
 		7E236535201FEA5F00FD853B /* CosmosSettingsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CosmosSettingsTests.swift; sourceTree = "<group>"; };
 		7E4295541B38C70900C66E9F /* launch_screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = launch_screen.png; sourceTree = "<group>"; };
-		7E646DAE1C04438B00048339 /* Cosmos.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Cosmos.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E646DB01C04438B00048339 /* Cosmos-tvOS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Cosmos-tvOS.h"; sourceTree = "<group>"; };
 		7E646DB21C04438B00048339 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7EE20BE51F18AEEF00D1ECD3 /* CosmosTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CosmosTest.swift; sourceTree = "<group>"; };
@@ -179,13 +161,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7E646DAA1C04438B00048339 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -207,7 +182,6 @@
 				2B622EAF1B37BAE50090D81B /* Cosmos.framework */,
 				2B622EB91B37BAE50090D81B /* CosmosTests.xctest */,
 				2B622EF01B37BC120090D81B /* Demo.app */,
-				7E646DAE1C04438B00048339 /* Cosmos.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -353,14 +327,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7E646DAB1C04438B00048339 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				7E646DB11C04438B00048339 /* Cosmos-tvOS.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXLegacyTarget section */
@@ -436,24 +402,6 @@
 			productReference = 2B622EF01B37BC120090D81B /* Demo.app */;
 			productType = "com.apple.product-type.application";
 		};
-		7E646DAD1C04438B00048339 /* Cosmos-tvOS */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 7E646DB51C04438B00048339 /* Build configuration list for PBXNativeTarget "Cosmos-tvOS" */;
-			buildPhases = (
-				7E646DA91C04438B00048339 /* Sources */,
-				7E646DAA1C04438B00048339 /* Frameworks */,
-				7E646DAB1C04438B00048339 /* Headers */,
-				7E646DAC1C04438B00048339 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "Cosmos-tvOS";
-			productName = "Cosmos-tvOS";
-			productReference = 7E646DAE1C04438B00048339 /* Cosmos.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -479,10 +427,6 @@
 					2B622F091B37BD960090D81B = {
 						CreatedOnToolsVersion = 7.0;
 					};
-					7E646DAD1C04438B00048339 = {
-						CreatedOnToolsVersion = 7.1.1;
-						LastSwiftMigration = 1020;
-					};
 				};
 			};
 			buildConfigurationList = 2B622EA91B37BAE50090D81B /* Build configuration list for PBXProject "Cosmos" */;
@@ -499,7 +443,6 @@
 			projectRoot = "";
 			targets = (
 				2B622EAE1B37BAE50090D81B /* Cosmos */,
-				7E646DAD1C04438B00048339 /* Cosmos-tvOS */,
 				2B622EB81B37BAE50090D81B /* CosmosTests */,
 				2B622EEF1B37BC120090D81B /* Demo */,
 				2B622F091B37BD960090D81B /* ConcatenateSwiftFiles */,
@@ -534,14 +477,6 @@
 				2B622EFA1B37BC120090D81B /* Assets.xcassets in Resources */,
 				7E4295551B38C70900C66E9F /* launch_screen.png in Resources */,
 				2B622EF81B37BC120090D81B /* Main.storyboard in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		7E646DAC1C04438B00048339 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				39DB06222B6B608600AE776F /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -598,28 +533,6 @@
 				2BC696841BAF9A4700576887 /* PerformanceTableViewCell.swift in Sources */,
 				7EF4F8251D91E97F00799197 /* CosmosSettingsObjCBridge.swift in Sources */,
 				2BC696811BAF996F00576887 /* PerformanceTableViewController.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		7E646DA91C04438B00048339 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				7E646DBA1C04440B00048339 /* CosmosLocalizedRating.swift in Sources */,
-				7E646DC01C04440B00048339 /* CosmosView.swift in Sources */,
-				7E646DB81C04440B00048339 /* CosmosLayers.swift in Sources */,
-				7E646DBD1C04440B00048339 /* CosmosSize.swift in Sources */,
-				7E646DC41C04441400048339 /* CosmosTouchTarget.swift in Sources */,
-				7E646DBF1C04440B00048339 /* CosmosTouch.swift in Sources */,
-				7E646DBE1C04440B00048339 /* CosmosText.swift in Sources */,
-				7E646DB71C04440B00048339 /* CosmosDefaultSettings.swift in Sources */,
-				7E646DC11C04440B00048339 /* StarFillMode.swift in Sources */,
-				7E646DB61C04440B00048339 /* CosmosAccessibility.swift in Sources */,
-				7E646DBB1C04440B00048339 /* CosmosRating.swift in Sources */,
-				7E646DB91C04440B00048339 /* CosmosLayerHelper.swift in Sources */,
-				7E646DC21C04440B00048339 /* StarLayer.swift in Sources */,
-				7E646DBC1C04440B00048339 /* CosmosSettings.swift in Sources */,
-				7E1A88471E3412CB0053A0FA /* RightToLeft.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -887,51 +800,6 @@
 			};
 			name = Release;
 		};
-		7E646DB31C04438B00048339 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				APPLICATION_EXTENSION_API_ONLY = YES;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Cosmos-tvOS/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.evgenii.Cosmos-tvOS";
-				PRODUCT_NAME = Cosmos;
-				SDKROOT = appletvos;
-				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 3;
-				TVOS_DEPLOYMENT_TARGET = 12.0;
-			};
-			name = Debug;
-		};
-		7E646DB41C04438B00048339 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				APPLICATION_EXTENSION_API_ONLY = YES;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Cosmos-tvOS/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.evgenii.Cosmos-tvOS";
-				PRODUCT_NAME = Cosmos;
-				SDKROOT = appletvos;
-				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 3;
-				TVOS_DEPLOYMENT_TARGET = 12.0;
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -976,15 +844,6 @@
 			buildConfigurations = (
 				2B622F0B1B37BD960090D81B /* Debug */,
 				2B622F0C1B37BD960090D81B /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		7E646DB51C04438B00048339 /* Build configuration list for PBXNativeTarget "Cosmos-tvOS" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				7E646DB31C04438B00048339 /* Debug */,
-				7E646DB41C04438B00048339 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
